@@ -3,7 +3,7 @@
 ## Objective:
 The goal of this project is to pull twitter data, using the tweepy wrapper around the twitter API, and perform simple sentiment analysis using the vaderSentiment library.   
 
-It will display the most recent 100 tweets from a given user and the list of users followed by a given user. For example, in response to URL /the_antlr_guy (http://localhost/the_antlr_guy when tested on laptop),it should respond with a tweet list color-coded by sentiment, using a red to green gradient:
+The application will display the most recent 100 tweets from a given user and the list of users followed by a given user. For example, in response to URL /the_antlr_guy (http://localhost/the_antlr_guy when tested on laptop),it should respond with a tweet list color-coded by sentiment, using a red to green gradient:
 
 <img src="./img/sentiment-tweets.png" width=800>
 
